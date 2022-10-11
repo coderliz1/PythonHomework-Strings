@@ -6,7 +6,7 @@ print(colors)
 userinput = input("Which character in the list of strings will be used to create a new list?  ")
 
 
-
+new_list = userinput.split(" ")
 
  
-print("Your new character list is:", userinput)
+print("Your new character list is:", new_list)
