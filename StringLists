@@ -1,4 +1,12 @@
 colors = ["red", "blue", "green", "yellow", "black", "orange"]
 print(colors)
 
+
+
 userinput = input("Which character in the list of strings will be used to create a new list?  ")
+
+n=userinput.split(',')
+
+
+ 
+print(userinput)
