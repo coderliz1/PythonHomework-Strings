@@ -10,3 +10,4 @@ new_list = userinput.split(" ")
 
  
 print("Your new character list is:", new_list)
+print("Your old list is:", colors)
